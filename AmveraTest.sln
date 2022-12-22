@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmveraTest", "AmveraTest.csproj", "{5E0185FE-6AE6-48A3-BDDE-02A3A501285F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0185FE-6AE6-48A3-BDDE-02A3A501285F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0185FE-6AE6-48A3-BDDE-02A3A501285F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0185FE-6AE6-48A3-BDDE-02A3A501285F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0185FE-6AE6-48A3-BDDE-02A3A501285F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2BB81EB-BE1E-4DE1-9610-286EB82E6524}
+	EndGlobalSection
+EndGlobal
